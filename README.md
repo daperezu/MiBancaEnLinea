@@ -26,7 +26,7 @@ Este ejercicio está diseñado para probar su capacidad para crear un API RESTfu
 
 ## Instrucciones
 
-- Implementar la API RESTful según los criterios de aceptación.
+- Implementar un API RESTful según los criterios de aceptación.
 - Cree un repositorio en GitHub. Deberá entregar su implementación a través de éste medio. El repositorio deberá ser publico. 
 - Utilice .Net 8 y C#.
 - Utilice SQL Server para almacenar la información. No hay requisito de una versión en particular.
